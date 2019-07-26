@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kannankram/Space%20Game%20Web%20Workflow/_apis/build/status/kannan-kiwitech.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/kannankram/Space%20Game%20Web%20Workflow/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
