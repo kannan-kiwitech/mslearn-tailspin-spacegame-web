@@ -1,4 +1,7 @@
 
+[![Build Status](https://dev.azure.com/kannankram/Space%20Game%20Web%20Workflow/_apis/build/status/kannan-kiwitech.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/kannankram/Space%20Game%20Web%20Workflow/_build/latest?definitionId=3&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-kannan&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-kannan)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
